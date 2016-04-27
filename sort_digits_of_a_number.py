@@ -5,5 +5,6 @@ def Descending_Order(num):
 
 // another way
 
-def Descending_Order(num):
+/* def Descending_Order(num):
   return int("".join(sorted(str(num), reverse=True)));
+*/
